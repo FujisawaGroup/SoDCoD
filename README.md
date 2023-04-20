@@ -1,6 +1,6 @@
 # SOD1_database
-This database contains information on structural changes in SOD1 protein caused by genetic mutations found in ALS patients. 
-
+This database contains information on structural changes in SOD1 protein caused by genetic mutations found in ALS patients.  
+This version is a BETA release. More information will be uploaded soon.
 
 
 
