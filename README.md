@@ -1,11 +1,11 @@
 # SOD1_database
 This database contains information on structural changes in SOD1 protein caused by genetic mutations found in ALS patients.  
-This version is a BETA release. More information will be uploaded soon.
+This version is a BETA release (April 19th, 2023). More information will be uploaded soon.  
 
 
 
 
-# References 
+## References 
 Fujisawa T, Homma K, Yamaguchi N, Kadowaki H, Tsuburaya N, Naguro I, Matsuzawa A, Takeda K, Takahashi Y, Goto J, Tsuji S, Nishitoh H, Ichijo H
 A novel monoclonal antibody reveals a conformational alteration shared by amyotrophic lateral sclerosis-linked SOD1 mutants  
 Ann. Neurol., 72, 739-749 (2012)  
