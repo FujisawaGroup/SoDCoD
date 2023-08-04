@@ -1,4 +1,4 @@
-# SOD1_database
+# SoDCoD
 This database contains information on structural changes in SOD1 protein caused by genetic mutations found in ALS patients.  
 This version is a BETA release (April 19th, 2023). More information will be uploaded soon.  
 
