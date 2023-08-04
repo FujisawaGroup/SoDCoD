@@ -1,7 +1,7 @@
 # SoDCoD
 SoDCoD (Cu/Zn <ins>S</ins>uper<ins>o</ins>xide <ins>D</ins>ismutase <ins>C</ins>onformational <ins>D</ins>iversity database)  
 This database contains information on structural changes in SOD1 protein caused by genetic mutations found in ALS patients.  
-This version is a BETA release (April 19th, 2023). More information will be uploaded soon.  
+This version is a BETA release (August 4th, 2023). More information will be uploaded soon.  
 
 
 
