@@ -1,8 +1,6 @@
 # SoDCoD
 SoDCoD (Cu/Zn <ins>S</ins>uper<ins>o</ins>xide <ins>D</ins>ismutase <ins>C</ins>onformational <ins>D</ins>iversity database)  
-This database contains information on structural changes in SOD1 protein caused by genetic mutations found in ALS patients.  
-This version is a BETA release (August 4th, 2023). More information will be uploaded soon.  
-
+This database contains information on the properties of 188 types of SOD1 mutants, including structural changes and binding to Derlin-1, as well as a set of genes that contribute to the proteostasis of mutant-like wild-type SOD1.
 
 
 
@@ -18,3 +16,6 @@ Neurobiol. Dis., 82, 478-486 (2015)
 https://doi.org/10.1016/j.nbd.2015.08.010
 
 
+## Log
+2023-04-20 Generated this repository on GitHub.
+2023-08-29 Data updated.
