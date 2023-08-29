@@ -4,6 +4,7 @@ This database contains information on the properties of 188 types of SOD1 mutant
 
 
 
+
 ## References 
 Fujisawa T, Homma K, Yamaguchi N, Kadowaki H, Tsuburaya N, Naguro I, Matsuzawa A, Takeda K, Takahashi Y, Goto J, Tsuji S, Nishitoh H, Ichijo H  
 A novel monoclonal antibody reveals a conformational alteration shared by amyotrophic lateral sclerosis-linked SOD1 mutants  
@@ -16,6 +17,7 @@ Neurobiol. Dis., 82, 478-486 (2015)
 https://doi.org/10.1016/j.nbd.2015.08.010
 
 
+
 ## Log
-2023-04-20 Generated this repository on GitHub.
+2023-04-20 Generated this repository on GitHub.  
 2023-08-29 Data updated.
