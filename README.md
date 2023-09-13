@@ -5,11 +5,11 @@ This database contains information on the properties of 188 types of SOD1 mutant
 
 ## Files 
 1. data_MSIP_CT4interaction.txt  
-We conducted a comprehensive analysis of 188 SOD1mut concerning their structural alterations and interaction with Derlin-1.
+We conducted a comprehensive analysis of 188 SOD1 mutants concerning their structural alterations and interaction with Derlin-1.  
 This file contains information on the properties of 188 types of SOD1 mutants.
 
-2. data_screening.txt
-We previously performed an siRNA screening to identify genes that contribute to the proteostasis of mutant-like wild-type SOD1. 
+2. data_screening.txt  
+We previously performed an siRNA screening to identify genes that contribute to the proteostasis of mutant-like wild-type SOD1.  
 This file contains information on the candidate genes that were positive in the screen.
 
 
