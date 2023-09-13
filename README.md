@@ -1,8 +1,16 @@
 # SoDCoD
-SoDCoD (Cu/Zn <ins>S</ins>uper<ins>o</ins>xide <ins>D</ins>ismutase <ins>C</ins>onformational <ins>D</ins>iversity database)  
+SoDCoD (Cu/Zn <ins>S</ins>uper<ins>o</ins>xide <ins>D</ins>ismutase <ins>Co</ins>nformational <ins>D</ins>iversity database)  
 This database contains information on the properties of 188 types of SOD1 mutants, including structural changes and binding to Derlin-1, as well as a set of genes that contribute to the proteostasis of mutant-like wild-type SOD1.
 
 
+## Files 
+1. data_MSIP_CT4interaction.txt  
+We conducted a comprehensive analysis of 188 SOD1mut concerning their structural alterations and interaction with Derlin-1.
+This file contains information on the properties of 188 types of SOD1 mutants.
+
+2. data_screening.txt
+We previously performed an siRNA screening to identify genes that contribute to the proteostasis of mutant-like wild-type SOD1. 
+This file contains information on the candidate genes that were positive in the screen.
 
 
 ## References 
