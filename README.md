@@ -24,7 +24,10 @@ A systematic immunoprecipitation approach reinforces the concept of common confo
 Neurobiol. Dis., 82, 478-486 (2015)  
 https://doi.org/10.1016/j.nbd.2015.08.010
 
-
+Homma K, Takahashi H, Tsuburaya N, Naguro I, Fujisawa T and Ichijo H  
+Genome-wide siRNA screening reveals that DCAF4-mediated ubiquitination of optineurin stimulates autophagic degradation of Cu/Zn superoxide dismutase  
+J. Biol. Chem., 295, 3148-3158 (2020)  
+https://doi.org/10.1074/jbc.RA119.010239
 
 ## Log
 2023-04-20 Generated this repository on GitHub.  
